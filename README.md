@@ -41,7 +41,7 @@ A graduate of this program will be able to:
 [requirements.txt](requirements.txt)
 
 ## License
-[License](LICENSE.txt)
+[License](LICENSE.md)
 
 ## Credits
 - [udacity.com](udacity.com)
